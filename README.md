@@ -1,4 +1,4 @@
-# Hello fellow idiots who decided to find my random profile!
+# Hiya 👋! ![Visits Badge](https://badges.pufler.dev/visits/DarkMG1/DarkMG1)
 
 ### Who the hell am I?
  - I'm a dude who's mainly worked with Java and Javascript, with some Golang (Just for fun)
