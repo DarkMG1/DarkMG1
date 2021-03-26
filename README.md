@@ -28,8 +28,6 @@
 ### Operating Systems / Tools I use
 ![Windows](https://img.shields.io/badge/-Windows-0C1324?style=flat-square&logo=windows&logoColor=ffffff)
 ![Linux](https://img.shields.io/badge/-Linux-0C1324?style=flat-square&logo=linux&logoColor=ffffff)
-![Windows](https://img.shields.io/badge/-Windows-0C1324?style=flat-square&logo=windows&logoColor=ffffff)
-![Linux](https://img.shields.io/badge/-Linux-0C1324?style=flat-square&logo=linux&logoColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-0C1324?style=flat-square&logo=github&logoColor=ffffff)
 ![Notepad++](https://img.shields.io/badge/-Notepad++-0C1324?style=flat-square&logo=Notepad%2B%2B&&logoColor=ffffff)
 ![Intelij](https://img.shields.io/badge/-Intelij-0C1324?style=flat-square&logo=jetbrains&logoColor=ffffff)
