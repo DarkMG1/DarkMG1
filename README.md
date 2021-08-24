@@ -10,10 +10,9 @@
  - I'm just doing some plugin freelancing at the moment.
  - I take up a plugin based not on the pay, I accept it if its fun to code or not
  - I do systems administration for multiple servers at the moment, like SurrealCraft, WarfareMC, GhostedMC, and on.
- - I am **not** taking on any systems administration clients at this moment. This will change in the future
  
 **Can I hire you?**
- - As I said before, I don't take any systems administration clients at the moment, exceptions are for close friends.
+ - For Systems Administration, yes.
  - I'll take plugin requests if they are either easy to make, or they are fun to make.
  - You might get lucky, and I won't even charge you for the plugin.
  
