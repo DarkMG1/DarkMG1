@@ -2,24 +2,17 @@
 
 ### Who the hell am I?
  - I'm a dude who's mainly worked with Java and Javascript, with some Golang (Just for fun)
- - I mainly do Minecraft Plugin Development and Systems Administration
- - On a side note, I was going to start a services company called Dark Services, but school said no.
 
 
 ### What am I working on right now?
- - I'm just doing some plugin freelancing at the moment.
- - I take up a plugin based not on the pay, I accept it if its fun to code or not
- - I do systems administration for multiple servers at the moment, like SurrealCraft, WarfareMC, GhostedMC, and on.
- 
-**Can I hire you?**
- - For Systems Administration, yes.
- - I'll take plugin requests if they are either easy to make, or they are fun to make.
- - You might get lucky, and I won't even charge you for the plugin.
+- I'm focusing on school and robotics, while also trying to get some real life experience by doing internships.
  
  
 ### Languages/Databases I use
 ![Java](https://img.shields.io/badge/-Java-0C1324?style=flat-square&logo=java&logoColor=ffffff)
 ![Node.js](https://img.shields.io/badge/-Node.js-0C1324?style=flat-square&logo=Node.js&logoColor=ffffff)
+![Python](https://img.shields.io/badge/-Python-0C1324?style=flat-square&logo=python&logoColor=ffffff)
+![Golang](https://img.shields.io/badge/-Golang-0C1324?style=flat-square&logo=google&logoColor=ffffff)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-0C1324?style=flat-square&logo=mariadb&logoColor=ffffff)
 ![MySQL](https://img.shields.io/badge/-MySQL-0C1324?style=flat-square&logo=mysql&logoColor=ffffff)
 
