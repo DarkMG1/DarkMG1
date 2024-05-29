@@ -1,16 +1,17 @@
 # Welcome 👋! ![Visits Badge](https://badges.pufler.dev/visits/DarkMG1/DarkMG1)
 
 ### About Me
--  Currently studying at Michigan State University as a Biomedical Engineering major.
--  Working as a Undergraduate Research Assistant at the Institute for Quantitative Health Science and Engineering.
- - Any questions? Contact me via discord: DarkMG1#0001
+-  Currently studying at University of Michigan pursuing Biomedical Engineering and Robotics.
+-  Working at Brose Fahrzeugteile as a Informational Technology Intern 
+-  Working as a Researcher at the Institute for Quantitative Health Science and Engineering.
+ - Any questions? Contact me via discord at darkmg1 or email at contact@darkservices.dev
 
 
 ### What am I working on right now?
-- Working on programming projects on the side while I learn more languages in my free time
+- Working on servers and maintaining enterprise solutions at Brose Fahrzeugteile
+- Maintaining [Dark Services](darkservices.dev) and expanding the client base.
 - Learning more about the field of Biomedical Engineering and how I can apply my programming skills to it
-- Working on a few projects with the Institute for Quantitative Health Science and Engineering
-- Applying to internships for the summer of 2024, if you have any suggestions or opportunities, feel free to reach out to me!
+- Working on improving my application that analyzes images outputted by magnetic particle imaging.
  
 ### Languages/Databases I use
 ![Java](https://img.shields.io/badge/-Java-0C1324?style=flat-square&logo=java&logoColor=ffffff)
